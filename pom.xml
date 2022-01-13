@@ -55,7 +55,7 @@
 		<dependency>
 			<groupId>com.jfinal</groupId>
 			<artifactId>jetty-server</artifactId>
-			<version>8.1.8</version>
+			<version>2018.9</version>
 			<scope>provided</scope>
 		</dependency>
 		<!-- dependency>
@@ -182,7 +182,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>4.3.8.RELEASE</version>
+			<version>5.2.19.RELEASE</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
